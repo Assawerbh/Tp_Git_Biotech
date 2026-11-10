@@ -1,0 +1,6 @@
+Git is a vesion control system that helps tack chages in files and pojects.
+It allows users to save different versions and return to previous versions when needed.
+GitHue is an online platform used to host and share Git repositories.
+During this partical work,I learned how to creat a repositoy and clone it into Google Colab.
+I also learned how to create files, commit changes, and push them to GitHub.
+These tools are usful for organizing scientific projects and facilitating collaboration.
