@@ -4,3 +4,6 @@ GitHue is an online platform used to host and share Git repositories.
 During this partical work,I learned how to creat a repositoy and clone it into Google Colab.
 I also learned how to create files, commit changes, and push them to GitHub.
 These tools are usful for organizing scientific projects and facilitating collaboration.
+--- Biotech Personal Project ---
+My project focuses on developing a bioinformatics pipeline to analyze the impact of environmental pollutants on cellular oxidative stress.
+Using Git will allow me to version control data analysis scripts, track the evolution of toxicological prediction models, and collaborate effectively.
